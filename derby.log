@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jul 08 20:10:38 MSK 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0197-eb04-9f4f-000003a0bcf0 
+on database directory /home/artniz/database_for_cv/home_task/homeTask/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1dbd16a6 
+Loaded from file:/home/artniz/miniconda3/lib/python3.13/site-packages/pyspark/jars/derby-10.16.1.1.jar
+java.vendor=Ubuntu
+java.runtime.version=17.0.15+6-Ubuntu-0ubuntu122.04
+user.dir=/home/artniz/database_for_cv/home_task/homeTask
+os.name=Linux
+os.arch=amd64
+os.version=5.15.146.1-microsoft-standard-WSL2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
